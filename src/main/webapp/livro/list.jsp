@@ -23,6 +23,6 @@
                 </c:forEach>
         </table>
 
-        <h1>Lista de livros!!! karin </h1>
+        <h1>Lista de livros!!! Karin Angela</h1>
     </body>
 </html>
